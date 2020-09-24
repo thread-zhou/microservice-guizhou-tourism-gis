@@ -19,6 +19,6 @@ include 'comment-svc'
 include 'account-api'
 include 'account-svc'
 include 'weather-api'
-include 'weather'
+include 'weather-svc'
 include 'faraday'
 
